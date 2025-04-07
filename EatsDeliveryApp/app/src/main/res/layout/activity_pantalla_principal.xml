@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cliente.PantallaPrincipalCliente">
+
+
+    <TextView
+        android:id="@+id/bienvenidaCliente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#FF0000"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/Carrito"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="258dp"
+        android:layout_marginLeft="258dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:background="@drawable/ic_baseline_add_shopping_cart_24"
+        android:onClick="irACarrito"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/Cuenta"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/Cuenta"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/ic_baseline_account_circle_24"
+        android:onClick="MenuCliente"
+        app:layout_constraintEnd_toStartOf="@+id/Carrito"
+        app:layout_constraintHorizontal_bias="0.053"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="88dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/ic_baseline_search_24"
+        android:onClick="BusquedaRestaurante"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/Carrito" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="352dp"
+        android:layout_height="413dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginLeft="29dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.933"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/ic_baseline_fastfood_24"
+        android:onClick="pedidosActivos"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Cuenta" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

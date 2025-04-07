@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/layoutListaFormato"
+        android:layout_width="fill_parent"
+        android:layout_height="128dp"
+        android:background="#DC0D0D">
+
+        <ImageView
+            android:id="@+id/iconLista"
+            android:layout_width="114dp"
+            android:layout_height="94dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:src="@mipmap/ic_launcher" />
+
+
+        <TextView
+            android:id="@+id/tituloLista"
+            android:layout_width="278dp"
+            android:layout_height="110dp"
+            android:layout_alignTop="@+id/iconLista"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="-1dp"
+            android:layout_toEndOf="@+id/iconLista"
+            android:layout_toRightOf="@+id/iconLista"
+            android:text="Large Text"
+            android:inputType="textMultiLine"
+            android:editable="false"
+            android:scrollbars="vertical"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+
+</LinearLayout>
