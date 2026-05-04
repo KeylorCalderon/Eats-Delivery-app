@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_anadir_direccion.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_busqueda_restaurante.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_detalle_producto.xml" value="0.19" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_detalle_restaurante.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_dialog_signin.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_encargo_pedido.xml" value="0.16" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_fragment_form.xml" value="0.1" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_listar_restaurantes.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_log_in_admin.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_menu_cliente.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_modificar_direccion.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_admin_default.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_encargado.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_gerente.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_gestionar_direccion.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_insertar_plato.xml" value="0.2" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_insertar_restaurantes.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_modificar_plato.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_modificar_restaurante.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_peticion_eliminar.xml" value="0.33" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_principal.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_registrar_direccion.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_registro.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_registro_admin.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_repartidor.xml" value="0.25" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_pantalla_tarjeta.xml" value="0.18800813008130082" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/activity_ver_carrito.xml" value="0.22" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/cuadro_dialogo.xml" value="0.33" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/fragment_form.xml" value="0.1" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/lista_formato.xml" value="0.33" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/listavista.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/Jhonny Picado Vega/Documents/TEC/Git-hub/Requerimientos/Eats-Delivery/EatsDeliveryApp/app/src/main/res/layout/listavistaproducto.xml" value="0.12952898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
