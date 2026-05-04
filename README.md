@@ -4,6 +4,8 @@ Native Android food delivery application developed in Java, designed to simulate
 
 This project was built to replicate core features found in modern delivery applications, including restaurant browsing, cart management, order processing, account management, and administrative CRUD operations.
 
+It was made as an academic project (2021) and later revisited for documentation and portfolio purposes.
+
 ## Features
 
 ### User Management
@@ -131,6 +133,12 @@ Open the project in Android Studio and run it using an emulator or Android devic
 
 ---
 
+## Authors
+
+Keylor Calderón, Jhonny Picado Vega and Esteban Vargas Quirós
+
+---
+
 ## What I Learned
 
 This project strengthened my understanding of:
@@ -151,9 +159,3 @@ This project strengthened my understanding of:
 - Real-time order tracking
 - Backend API integration
 - UI modernization
-
----
-
-## Author
-
-Keylor Calderón, Jhonny Picado Vega and Esteban Vargas Quiros
