@@ -65,45 +65,31 @@ This project was built to replicate core features found in modern delivery appli
 
 ### Login
 
-![Login Screen](screenshots/Image1.png)
+<img src="screenshots/Image1.png" width="250">
 
 ### Payment Method
 
-![Payment Screen](screenshots/Image2.png)
+<img src="screenshots/Image2.png" width="250">
 
 ### Direction Screen
 
-![Direction Screen](screenshots/Image4.png)
+<img src="screenshots/Image4.png" width="250">
 
 ### Home Screen
 
-![Home Screen](screenshots/Image5.png)
+<img src="screenshots/Image5.png" width="250">
 
 ### Restaurant Catalog
 
-![Restaurants](screenshots/Image7.png)
+<img src="screenshots/Image7.png" width="250">
 
 ### Product Details
 
-![Product](screenshots/Image8.png)
+<img src="screenshots/Image8.png" width="250">
 
 ### Shopping Cart
 
-![ShoppinCart](screenshots/Image10.png)
-
----
-
-## Project Structure
-
-```text
-app/
- ├── src/
- ├── java/
- ├── res/
- ├── manifests/
-```
-
----
+<img src="screenshots/Image10.png" width="250">
 
 ## Key Functionalities Implemented
 
