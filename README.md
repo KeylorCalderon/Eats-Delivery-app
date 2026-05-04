@@ -6,7 +6,7 @@ Native Android food delivery application developed in Java, designed to simulate
 
 This project was built to replicate core features found in modern delivery applications, including restaurant browsing, cart management, order processing, account management, and administrative CRUD operations.
 
-It was made as an academic project (2021) and later revisited for documentation and portfolio purposes.
+It was made as an academic project (2023) and later revisited for documentation and portfolio purposes.
 
 ## Features
 
