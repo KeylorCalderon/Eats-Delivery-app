@@ -156,4 +156,4 @@ This project strengthened my understanding of:
 
 ## Author
 
-Keylor Calderón
+Keylor Calderón, Jhonny Picado Vega and Esteban Vargas Quiros
