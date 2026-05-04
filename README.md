@@ -1,5 +1,7 @@
 # Eats Delivery App
 
+<img src="EatsDeliveryApp/app/src/main/res/drawable/logo.png" width="550">
+
 Native Android food delivery application developed in Java, designed to simulate a real-world online ordering platform with customer and administrator functionalities.
 
 This project was built to replicate core features found in modern delivery applications, including restaurant browsing, cart management, order processing, account management, and administrative CRUD operations.
